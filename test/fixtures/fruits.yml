@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  description: MyText
+  price: MyString
+  expire_date: 2019-01-01
+
+two:
+  name: MyString
+  description: MyText
+  price: MyString
+  expire_date: 2019-01-01
